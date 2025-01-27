@@ -6,7 +6,7 @@ var app = express();//Respond with "hello world" for requests that hit our >
 
 app.get('/', function (req, res) {
 
- res.send('this is for shubham ');
+ res.send('welcome to the nodejs ');
 
 });//listen to port 3000 by default
 
